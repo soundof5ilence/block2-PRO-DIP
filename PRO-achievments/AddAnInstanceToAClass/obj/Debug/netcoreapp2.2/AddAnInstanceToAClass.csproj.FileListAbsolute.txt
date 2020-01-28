@@ -1,0 +1,11 @@
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\bin\Debug\netcoreapp2.2\AddAnInstanceToAClass.deps.json
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\bin\Debug\netcoreapp2.2\AddAnInstanceToAClass.runtimeconfig.json
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\bin\Debug\netcoreapp2.2\AddAnInstanceToAClass.runtimeconfig.dev.json
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\bin\Debug\netcoreapp2.2\AddAnInstanceToAClass.dll
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\bin\Debug\netcoreapp2.2\AddAnInstanceToAClass.pdb
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\obj\Debug\netcoreapp2.2\AddAnInstanceToAClass.csprojAssemblyReference.cache
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\obj\Debug\netcoreapp2.2\AddAnInstanceToAClass.csproj.CoreCompileInputs.cache
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\obj\Debug\netcoreapp2.2\AddAnInstanceToAClass.AssemblyInfoInputs.cache
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\obj\Debug\netcoreapp2.2\AddAnInstanceToAClass.AssemblyInfo.cs
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\obj\Debug\netcoreapp2.2\AddAnInstanceToAClass.dll
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AddAnInstanceToAClass\obj\Debug\netcoreapp2.2\AddAnInstanceToAClass.pdb

@@ -1,0 +1,15 @@
+D:\ma\bewijzenmap\periode1.2\PRO\prakticum\scopes\obj\Debug\netcoreapp2.2\scopes.csprojAssemblyReference.cache
+D:\ma\bewijzenmap\periode1.2\PRO\prakticum\scopes\obj\Debug\netcoreapp2.2\scopes.csproj.CoreCompileInputs.cache
+D:\ma\bewijzenmap\periode1.2\PRO\prakticum\scopes\obj\Debug\netcoreapp2.2\scopes.AssemblyInfoInputs.cache
+D:\ma\bewijzenmap\periode1.2\PRO\prakticum\scopes\obj\Debug\netcoreapp2.2\scopes.AssemblyInfo.cs
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\bin\Debug\netcoreapp2.2\scopes.deps.json
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\bin\Debug\netcoreapp2.2\scopes.runtimeconfig.json
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\bin\Debug\netcoreapp2.2\scopes.runtimeconfig.dev.json
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\bin\Debug\netcoreapp2.2\scopes.dll
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\bin\Debug\netcoreapp2.2\scopes.pdb
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\obj\Debug\netcoreapp2.2\scopes.csprojAssemblyReference.cache
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\obj\Debug\netcoreapp2.2\scopes.csproj.CoreCompileInputs.cache
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\obj\Debug\netcoreapp2.2\scopes.AssemblyInfoInputs.cache
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\obj\Debug\netcoreapp2.2\scopes.AssemblyInfo.cs
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\obj\Debug\netcoreapp2.2\scopes.dll
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\scopes\obj\Debug\netcoreapp2.2\scopes.pdb

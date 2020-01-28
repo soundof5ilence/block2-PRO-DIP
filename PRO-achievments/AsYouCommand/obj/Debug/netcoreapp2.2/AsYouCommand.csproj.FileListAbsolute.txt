@@ -1,0 +1,11 @@
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.csprojAssemblyReference.cache
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.csproj.CoreCompileInputs.cache
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.AssemblyInfoInputs.cache
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.AssemblyInfo.cs
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.deps.json
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.runtimeconfig.json
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.runtimeconfig.dev.json
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.dll
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\bin\Debug\netcoreapp2.2\AsYouCommand.pdb
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.dll
+D:\ma\bewijzenmap\periode1.2\PRO\achievments\AsYouCommand\obj\Debug\netcoreapp2.2\AsYouCommand.pdb
